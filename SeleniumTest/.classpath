@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="lib/Selenium3Jars/okhttp-3.9.1.jar"/>
 	<classpathentry kind="lib" path="lib/Selenium3Jars/okio-1.13.0.jar"/>
 	<classpathentry kind="lib" path="lib/Selenium3Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/HtmlUnitDriver/htmlunit-driver-2.30.0-jar-with-dependencies.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
